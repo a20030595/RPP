@@ -1,1 +1,8 @@
 Hola este es mi primer archivo en GIT
+
+Esta es la segunda linea que agrego
+
+<head>
+
+
+</head>
